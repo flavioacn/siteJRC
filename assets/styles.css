@@ -62,7 +62,7 @@ h1,h2,h3{color:var(--navy);line-height:1.2;font-weight:800}
      Para um véu uniforme de ~20% de transparência, troque o gradiente por:
      linear-gradient(rgba(15,36,56,.80),rgba(15,36,56,.80)) */
   background:
-    linear-gradient(100deg, rgba(15,36,56,.93) 0%, rgba(23,50,79,.82) 42%, rgba(29,64,102,.55) 100%),
+    linear-gradient(100deg, rgba(15,36,56,.88) 0%, rgba(23,50,79,.77) 42%, rgba(29,64,102,.50) 100%),
     url('hero-obra.jpg?v=3');
   background-size:cover;
   background-position:center 38%;
@@ -166,7 +166,7 @@ h1,h2,h3{color:var(--navy);line-height:1.2;font-weight:800}
   /* No celular o texto ocupa toda a largura: véu azul mais uniforme para leitura */
   .hero{
     background:
-      linear-gradient(rgba(15,36,56,.90) 0%, rgba(23,50,79,.82) 100%),
+      linear-gradient(rgba(15,36,56,.85) 0%, rgba(23,50,79,.77) 100%),
       url('hero-obra.jpg?v=3');
     background-size:cover;
     background-position:center;
