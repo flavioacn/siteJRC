@@ -63,7 +63,7 @@ h1,h2,h3{color:var(--navy);line-height:1.2;font-weight:800}
      linear-gradient(rgba(15,36,56,.80),rgba(15,36,56,.80)) */
   background:
     linear-gradient(100deg, rgba(15,36,56,.93) 0%, rgba(23,50,79,.82) 42%, rgba(29,64,102,.55) 100%),
-    url('hero-obra.jpg?v=2');
+    url('hero-obra.jpg?v=3');
   background-size:cover;
   background-position:center 38%;
   background-repeat:no-repeat;
@@ -167,7 +167,7 @@ h1,h2,h3{color:var(--navy);line-height:1.2;font-weight:800}
   .hero{
     background:
       linear-gradient(rgba(15,36,56,.90) 0%, rgba(23,50,79,.82) 100%),
-      url('hero-obra.jpg?v=2');
+      url('hero-obra.jpg?v=3');
     background-size:cover;
     background-position:center;
   }
